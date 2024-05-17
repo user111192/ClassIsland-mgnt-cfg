@@ -1,22 +1,22 @@
 {
     "ClassPlanSource": {
-        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/{id}/Profile.json",
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/{id}/Profile.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/{id}/Profile.json",
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/{id}/Profile.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/Profile.json",
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/Profile.json",
         "Version": 1
     },
     "DefaultSettingsSource": {
-        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/settings.json",
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/settings.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/{id}/policy.json",
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/{id}/policy.json",
         "Version": 1
     },
     "ServerKind": 0,

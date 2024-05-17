@@ -17,7 +17,7 @@
     },
     "PolicySource": {
         "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/{id}/policy.json",
-        "Version": 2
+        "Version": 3
     },
     "ServerKind": 0,
     "OrganizationName": "华师五附 (Beta)"

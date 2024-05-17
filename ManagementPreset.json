@@ -1,0 +1,6 @@
+{
+    "ManagementServerKind": 0,
+    "ManagementServer": "",
+    "ManifestUrlTemplate": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/manifest.json",
+    "ClassIdentity": "202301"
+}

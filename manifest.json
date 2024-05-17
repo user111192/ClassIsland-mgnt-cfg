@@ -1,0 +1,24 @@
+{
+    "ClassPlanSource": {
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/{id}/Profile.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/{id}/Profile.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/Profile.json",
+        "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/settings.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg/{id}/policy.json",
+        "Version": 1
+    },
+    "ServerKind": 0,
+    "OrganizationName": "华师五附 - 远程管理"
+}

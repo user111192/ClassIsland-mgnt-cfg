@@ -1,15 +1,15 @@
 {
     "ClassPlanSource": {
         "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/{id}/Profile.json",
-        "Version": 3
+        "Version": 4
     },
     "TimeLayoutSource": {
         "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/{id}/Profile.json",
-        "Version": 3
+        "Version": 4
     },
     "SubjectsSource": {
         "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/Profile.json",
-        "Version": 3
+        "Version": 4
     },
     "DefaultSettingsSource": {
         "Value": "https://cdn.jsdelivr.net/gh/user111192/ClassIsland-mgnt-cfg@main/settings.json",
